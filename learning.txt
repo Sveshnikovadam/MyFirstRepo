@@ -1,1 +1,1 @@
-I have learned how to create repositories, manage branches, handle pull requests, and clone files using Git.
+What I have learned from this course is how to create repositories, manage branches, handle pull requests, and clone files using Git.
